@@ -1,0 +1,29 @@
+# Secrets - never commit
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+dist/
+build/
+
+# Data - too large for git
+data/raw/
+data/processed/
+
+# IDE
+.vscode/settings.json
+.idea/
+
+# Google credentials
+*.json
+application_default_credentials.json
+
+# Docker
+docker-compose.override.yml
+
+# OS
+.DS_Store
+Thumbs.db
