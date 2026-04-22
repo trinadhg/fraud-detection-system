@@ -47,3 +47,5 @@ make urls
 ## Dataset
 
 Uses PaySim synthetic financial dataset.
+
+<img width="842" height="720" alt="image" src="https://github.com/user-attachments/assets/7cc9ff67-2fd8-431f-aa67-5d5c0424fab6" />
